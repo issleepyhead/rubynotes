@@ -12,6 +12,6 @@ else
 cat >>${FOLDERS[$2]}/$FILE.rb<<EOF
 # TITLE: $FILE
 # DATE CREATED: $(date "+%Y-%m-%d %H:%M.%S")
-# AUTHOR: jamari
+# AUTHOR: issleepyhead
 EOF
 fi
